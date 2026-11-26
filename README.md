@@ -1,6 +1,6 @@
 # Sungka
 
-Sungka is a traditional Filipino mancala game, played with shells on a wooden board. This is a browser version you can play against the computer.
+Sungka is a traditional Filipino mancala game, played with shells on a wooden board. This is a browser version you can play against the computer or a friend, on desktop or phone.
 
 **▶ [Play it here](https://jennetadeo.com/sungka/)**
 
@@ -16,7 +16,7 @@ Features:
 - Single rounds, or multi-round sunog mode, where houses you can't refill are burned and skipped
 - A coin toss decides who goes first
 - Speed controls (1×, 2×, Instant), plus undo and skip
-- Optional move hints
+- Optional move hints: hover on desktop, or tap once to preview and again to play on a phone
 - Built-in rules guide and sound effects
 
 ## How it was made
